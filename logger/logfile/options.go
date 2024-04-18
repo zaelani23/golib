@@ -4,7 +4,7 @@ import (
 	"context"
 	_ "time"
 
-	"github.com/whatap/golib/config"
+	"github.com/zaelani23/golib/config"
 )
 
 type fileLoggerConfig struct {

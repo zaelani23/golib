@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/whatap/golib/io"
+	"github.com/zaelani23/golib/io"
 )
 
 type AppService struct {

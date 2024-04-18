@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/whatap/golib/config"
-	_ "github.com/whatap/golib/logger"
+	"github.com/zaelani23/golib/config"
+	_ "github.com/zaelani23/golib/logger"
 )
 
 func TestDefaultFileParser(t *testing.T) {

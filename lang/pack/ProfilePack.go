@@ -1,9 +1,9 @@
 package pack
 
 import (
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/lang/service"
-	"github.com/whatap/golib/lang/step"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/lang/service"
+	"github.com/zaelani23/golib/lang/step"
 )
 
 type ProfilePack struct {

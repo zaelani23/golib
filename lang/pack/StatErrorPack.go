@@ -3,9 +3,9 @@ package pack
 import (
 	//"log"
 
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/bitutil"
-	"github.com/whatap/golib/util/hmap"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/bitutil"
+	"github.com/zaelani23/golib/util/hmap"
 )
 
 //type ErrorRec struct {

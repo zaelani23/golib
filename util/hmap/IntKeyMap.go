@@ -6,7 +6,7 @@ import (
 	"math"
 	"sync"
 
-	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/golib/util/stringutil"
 )
 
 type IntKeyMap struct {

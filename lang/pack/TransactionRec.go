@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/hmap"
-	//	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/hmap"
+	//	"github.com/zaelani23/golib/util/stringutil"
 	//"gitlab.whatap.io/go/agent/util/logutil"
 )
 

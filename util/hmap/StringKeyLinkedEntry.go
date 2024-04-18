@@ -3,7 +3,7 @@ package hmap
 import (
 	"fmt"
 
-	"github.com/whatap/golib/util/hash"
+	"github.com/zaelani23/golib/util/hash"
 )
 
 type StringKeyLinkedEntry struct {

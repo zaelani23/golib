@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/whatap/golib/io"
-	val "github.com/whatap/golib/lang/value"
-	"github.com/whatap/golib/util/hmap"
+	"github.com/zaelani23/golib/io"
+	val "github.com/zaelani23/golib/lang/value"
+	"github.com/zaelani23/golib/util/hmap"
 )
 
 type ParamPack struct {

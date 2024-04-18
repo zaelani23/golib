@@ -5,8 +5,8 @@ import (
 	"container/list"
 	"fmt"
 
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/hmap"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/hmap"
 )
 
 type StatHttpcPack struct {

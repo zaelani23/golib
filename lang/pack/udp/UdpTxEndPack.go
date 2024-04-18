@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/stringutil"
-	"github.com/whatap/golib/util/urlutil"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/stringutil"
+	"github.com/zaelani23/golib/util/urlutil"
 )
 
 type UdpTxEndPack struct {

@@ -3,8 +3,8 @@ package pack
 import (
 	"math"
 
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/bitutil"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/bitutil"
 )
 
 type SqlRec struct {

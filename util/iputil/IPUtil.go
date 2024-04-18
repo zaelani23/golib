@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/whatap/golib/io"
+	"github.com/zaelani23/golib/io"
 )
 
 func ToStringFrInt(ip int32) string {

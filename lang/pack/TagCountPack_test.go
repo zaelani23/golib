@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/lang/value"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/lang/value"
 )
 
 func TestTagCoutPackDefault(t *testing.T) {

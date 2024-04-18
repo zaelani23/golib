@@ -1,8 +1,8 @@
 package pack
 
 import (
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/lang/step"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/lang/step"
 )
 
 type ErrorSnapPack1 struct {

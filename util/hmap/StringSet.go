@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/whatap/golib/util/hash"
+	"github.com/zaelani23/golib/util/hash"
 )
 
 // TODO SearchPathMap 에서 사용하기 위해 생성 (현재는 생성만)

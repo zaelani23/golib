@@ -1,9 +1,9 @@
 package variable
 
 import (
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/compare"
-	"github.com/whatap/golib/util/hmap"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/compare"
+	"github.com/zaelani23/golib/util/hmap"
 )
 
 // implements LinkedKey

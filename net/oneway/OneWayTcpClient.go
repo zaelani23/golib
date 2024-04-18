@@ -10,15 +10,15 @@ import (
 	"sync"
 	"time"
 
-	wio "github.com/whatap/golib/io"
-	"github.com/whatap/golib/lang/pack"
-	"github.com/whatap/golib/util/dateutil"
-	whash "github.com/whatap/golib/util/hash"
-	"github.com/whatap/golib/util/queue"
+	wio "github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/lang/pack"
+	"github.com/zaelani23/golib/util/dateutil"
+	whash "github.com/zaelani23/golib/util/hash"
+	"github.com/zaelani23/golib/util/queue"
 
-	"github.com/whatap/golib/config"
-	"github.com/whatap/golib/logger"
-	wnet "github.com/whatap/golib/net"
+	"github.com/zaelani23/golib/config"
+	"github.com/zaelani23/golib/logger"
+	wnet "github.com/zaelani23/golib/net"
 )
 
 const (

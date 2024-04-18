@@ -1,9 +1,9 @@
 package pack
 
 import (
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/compressutil"
-	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/compressutil"
+	"github.com/zaelani23/golib/util/stringutil"
 )
 
 const (

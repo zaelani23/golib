@@ -1,4 +1,4 @@
-// github.com/whatap/golib/io
+// github.com/zaelani23/golib/io
 package io
 
 import (

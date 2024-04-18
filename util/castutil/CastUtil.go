@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/whatap/golib/lang/value"
+	"github.com/zaelani23/golib/lang/value"
 )
 
 func CInt(val interface{}) (rt int32) {

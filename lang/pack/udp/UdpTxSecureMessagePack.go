@@ -3,8 +3,8 @@ package udp
 import (
 	"fmt"
 
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/stringutil"
 )
 
 type UdpTxSecureMessagePack struct {

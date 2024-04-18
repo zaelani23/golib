@@ -3,7 +3,7 @@ package logo
 import (
 	"fmt"
 
-	"github.com/whatap/golib/util/ansi"
+	"github.com/zaelani23/golib/util/ansi"
 )
 
 func Print(app string, version string) {

@@ -1,7 +1,7 @@
 package hmap
 
 import (
-	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/golib/util/stringutil"
 	//"fmt"
 )
 

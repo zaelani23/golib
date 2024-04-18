@@ -57,7 +57,7 @@ func SystemNow() int64 {
 	if IsSyncTime() {
 		return SyncTimeMillis
 	}
-	return (time.Now().UnixMilli())
+	return (time.Now().UnixNano() / 1000000)
 }
 
 func Now() int64 {

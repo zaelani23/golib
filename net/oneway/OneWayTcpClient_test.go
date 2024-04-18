@@ -7,11 +7,11 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
-	"github.com/whatap/golib/config"
-	wio "github.com/whatap/golib/io"
-	"github.com/whatap/golib/lang/pack"
-	wnet "github.com/whatap/golib/net"
-	whash "github.com/whatap/golib/util/hash"
+	"github.com/zaelani23/golib/config"
+	wio "github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/lang/pack"
+	wnet "github.com/zaelani23/golib/net"
+	whash "github.com/zaelani23/golib/util/hash"
 )
 
 var (

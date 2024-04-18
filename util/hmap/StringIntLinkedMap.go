@@ -5,7 +5,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/whatap/golib/util/hash"
+	"github.com/zaelani23/golib/util/hash"
 )
 
 type StringIntLinkedMap struct {

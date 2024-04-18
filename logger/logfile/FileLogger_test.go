@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/whatap/golib/logger"
+	"github.com/zaelani23/golib/logger"
 )
 
 func TestFileGetLogger(t *testing.T) {

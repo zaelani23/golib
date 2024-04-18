@@ -3,7 +3,7 @@ package lang
 import (
 	"fmt"
 
-	"github.com/whatap/golib/util/hmap"
+	"github.com/zaelani23/golib/util/hmap"
 )
 
 type PKOID struct {

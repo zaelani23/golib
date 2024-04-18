@@ -1,4 +1,4 @@
-//github.com/whatap/golib/config
+//github.com/zaelani23/golib/config
 package config
 
 // "log"

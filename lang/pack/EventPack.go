@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/util/hmap"
-	"github.com/whatap/golib/util/uuidutil"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/util/hmap"
+	"github.com/zaelani23/golib/util/uuidutil"
 )
 
 const (

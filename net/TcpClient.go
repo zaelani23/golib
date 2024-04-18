@@ -5,10 +5,10 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/whatap/golib/lang/pack"
+	"github.com/zaelani23/golib/lang/pack"
 
-	whash "github.com/whatap/golib/util/hash"
-	"github.com/whatap/golib/util/stringutil"
+	whash "github.com/zaelani23/golib/util/hash"
+	"github.com/zaelani23/golib/util/stringutil"
 )
 
 type TcpClient interface {

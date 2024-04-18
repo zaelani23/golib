@@ -1,10 +1,10 @@
 package pack
 
 import (
-	"github.com/whatap/golib/io"
-	"github.com/whatap/golib/lang/step"
-	"github.com/whatap/golib/util/dateutil"
-	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/golib/io"
+	"github.com/zaelani23/golib/lang/step"
+	"github.com/zaelani23/golib/util/dateutil"
+	"github.com/zaelani23/golib/util/stringutil"
 )
 
 type ProfileStepSplitPack struct {

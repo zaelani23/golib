@@ -6,7 +6,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/golib/util/stringutil"
 )
 
 // TODO SearchPathMap 에서 사용하기 위해 생성 (현재는 생성만)
